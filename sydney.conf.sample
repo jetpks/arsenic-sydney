@@ -1,0 +1,3 @@
+[redis]
+use_socket = True
+socket = /var/run/redis/redis.sock
